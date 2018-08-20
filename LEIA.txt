@@ -1,1 +1,4 @@
 Configuração Inicial entre Git e Github
+
+- 20-08-2018
+Configuração no computador do trabalho, agora ambos estão sincronizados.
